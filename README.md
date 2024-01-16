@@ -29,7 +29,7 @@ Clientes que atrasam o pagamento por mais de 20 dias, cancelam.
 
 - Oferecer desconto nos planos anuais e trimestrais
 - Criar um processo para resolver o problema do cliente em no máximo 3 ligações
-- Política de resolver atrásos em até 10 dias (equipe financeira)
+- Política de resolver atrasos em até 10 dias (equipe financeira)
 
 ## Biblioteca Pandas e Plotly 📚
 
